@@ -1,0 +1,21 @@
+
+
+Daily schedule planning
+
+1. 9-12 (1 hour - lecture)
+2. 2-6  (1 hours - lab)
+
+Find a room for such initiative
+
+Lunch break - 12-2 
+
+Travel to office - 8-9
+
+Travel to home - 6-7
+
+Learning pipeline
+
+e-Learning - AWS, Docker, Git, Terraform
+classroom learning - TBD, DevOps
+
+Other interest development 
